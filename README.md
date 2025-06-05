@@ -1,5 +1,3 @@
-# PasswordGenerator
-
 # 🔐 Advanced Password Generator (Python + Tkinter GUI)
 
 This project is a secure and customizable **password generator** built with **Python** and a user-friendly **Tkinter GUI**. It allows users to generate strong, random passwords based on their preferences and copy them directly to the clipboard.
